@@ -1,0 +1,5 @@
+com\mycompany\principalcontatos\ContatoNaoEncontradoException.class
+com\mycompany\principalcontatos\Contatos.class
+com\mycompany\principalcontatos\GestaoContatos.class
+com\mycompany\principalcontatos\PrincipalContatos.class
+com\mycompany\principalcontatos\CategoriaInvalidaException.class

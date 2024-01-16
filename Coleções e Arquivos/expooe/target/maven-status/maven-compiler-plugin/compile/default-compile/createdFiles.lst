@@ -1,0 +1,5 @@
+com\mycompany\principalcontatostreemap\ContatosTreeMap.class
+com\mycompany\principalcontatostreemap\PrincipalContatosTreeMap.class
+com\mycompany\principalcontatostreemap\CategoriaInvalidaException.class
+com\mycompany\principalcontatostreemap\ContatoNaoEncontradoException.class
+com\mycompany\principalcontatostreemap\GestaoContatosTreeMap.class
